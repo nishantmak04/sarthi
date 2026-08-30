@@ -54,7 +54,7 @@ export default function HowItWorksSection() {
         >
           <p className="section-label mb-3">How It Works</p>
           <h2 className="text-hero-md text-foreground mb-4">
-            Three actors. One connected identity.
+            Three Factors. One connected identity.
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Sarthi connects institutes, students, and companies into a single verified identity network — making every credential trustworthy.
